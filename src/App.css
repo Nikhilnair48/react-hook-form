@@ -34,3 +34,14 @@ input[type="date"] {
 .form-control {
   margin-bottom: 20px;
 }
+
+.error {
+  color: red;
+  font-size: 12px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
